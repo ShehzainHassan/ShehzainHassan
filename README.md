@@ -20,10 +20,11 @@ Passionate about building production-grade web applications with clean architect
 
 ### 🔭 What I'm Currently Working On
 
-- Improving backend scalability & API performance  
-- Strengthening DevOps workflows with **Docker & CI/CD (GitHub Actions)**  
-- Enhancing system design & microservices architecture knowledge  
-- Building production-ready SaaS projects  
+- 🚀 Improving frontend performance optimization and Core Web Vitals  
+- 📊 Enhancing Lighthouse scores (Performance, Accessibility, SEO, Best Practices)  
+- ⚡ Reducing bundle size, optimizing re-renders & implementing code-splitting  
+- 🏗 Strengthening scalable backend architecture & API efficiency  
+- 🔄 Advancing CI/CD workflows and containerized deployments with Docker  
 
 ---
 
