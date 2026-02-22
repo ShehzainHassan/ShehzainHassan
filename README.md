@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shehzain Hassan</h1>
-<h3 align="center">Full Stack Software Engineer | Scalable SaaS • Microservices • Enterprise Systems</h3>
+<h3 align="center">Full Stack Developer | Scalable SaaS • React, Next.js, Node.js • Enterprise Systems</h3>
 
 <p align="center">
 Passionate about building production-grade web applications with clean architecture, secure authentication, and performance-first design.
